@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=13:C2:BB:B1:63:FD:E6:A4:1F:ED:7E:7B:BA:C6:F4:04:E4:76:94:B9%3Bcom.cs360.ericagates.campsitelocator
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.cs360.ericagates.campsitelocator
+
+    SHA-1 certificate fingerprint:
+    13:C2:BB:B1:63:FD:E6:A4:1F:ED:7E:7B:BA:C6:F4:04:E4:76:94:B9
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyA5OZ4oh7f-oKHW2ks9haGcVRkw4kQGeZg</string>
+</resources>
